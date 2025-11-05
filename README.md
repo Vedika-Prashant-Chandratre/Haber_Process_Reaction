@@ -2,7 +2,7 @@
 
 ⚗️ Haber Process Reaction – C++ Chemical Animation
 
-Developed by: Vedika Chandratre, Aditi Pawar, Anjali Pawar, Sharwari Kachole.
+Developed by: Vedika Chandratre, Anjali Pawar, Aditi Pawar, Sharwari Kachole.
 
 This project visually demonstrates the Haber Process (N₂ + 3H₂ ⇌ 2NH₃) using C++ graphics. It simulates the reaction between nitrogen and hydrogen gases forming ammonia through animated molecules, temperature, and pressure effects — a creative fusion of chemistry and programming.
 
