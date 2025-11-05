@@ -24,7 +24,4 @@ Graphics Library: BGI (Turbo C++)
 
 ⚠️ Ownership Notice:
 Unauthorized copying, modification, or redistribution is strictly prohibited.
-Violators will face GitHub DMCA takedown and copyright action
-This project is the original creation of Vedika Prashant Chandratre.
-Unauthorized copying, modification, or redistribution is strictly prohibited.
-Violators will face GitHub DMCA takedown and copyright action.
+
